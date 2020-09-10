@@ -25,7 +25,7 @@
                          <div class="row">
                              <div class="col-12">
                                  <div class="pull-right">
-                                     <a href="https://TutorPortalBD.com/tutor-details/TS-11018" class="btn btn-custom">Details >></a>
+                                     <a href="<?php echo url('/'); ?>/details" class="btn btn-custom">Details >></a>
                                      <button type="button" onclick="yourFunction('9665')" class="btn btn-success border-radius-none tutor-id" data-toggle="modal" data-target="#exampleModalCenter">Contact >></button>
                                  </div>
                              </div>

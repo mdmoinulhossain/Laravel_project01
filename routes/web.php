@@ -33,3 +33,6 @@ Route::get('/faq', function () {
 Route::get('/contact', function () {
     return view('contact');
 });
+Route::get('/details', function () {
+    return view('tutordetails');
+});
