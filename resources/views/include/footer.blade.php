@@ -53,7 +53,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="copy-right py-2 text-center text-white">
-                        <p>Copyright© 2020 <a href="https://www.facebook.com/ges100" target="_blanck">GoldenEyes LTD</a> | MD.MOINUL HOSSAIN</p>
+                        <p>&copy; 2020-<?php echo date("Y"); ?> | TutorPortalBD | <a href="https://www.facebook.com/ges100" target="_blanck">GoldenEyes LTD</a></p>
                     </div>
                 </div>
             </div>
