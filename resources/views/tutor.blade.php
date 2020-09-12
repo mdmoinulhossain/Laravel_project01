@@ -9,7 +9,7 @@
                     <div class="card p-2 my-3">
                        <div class="row">
                            <div class="col-md-3 col-4 pb-4">
-                               <img class="card-img" src="<?php echo url('/'); ?>/assets/images/storage/pic/pt1.jpg" alt="Md. Jobaer Hossain">
+                               <img class="card-img" src="<?php echo url('/'); ?>/public/assets/images/storage/pic/pt1.jpg" alt="Md. Jobaer Hossain">
                            </div>
                            <div class="col-md-4 col-8">
                                 <a href="https://TutorPortalBD.com/tutor-details/TS-11018"><h5><strong>Md. Jobaer Hossain</strong></h5></a>
@@ -34,7 +34,7 @@
                                          <div class="card p-2 my-3">
                        <div class="row">
                            <div class="col-md-3 col-4 pb-4">
-                               <img class="card-img" src="<?php echo url('/'); ?>/assets/images/storage/pic/pt2.jpg" alt="Md.  Arinul Islam">
+                               <img class="card-img" src="<?php echo url('/'); ?>/public/assets/images/storage/pic/pt2.jpg" alt="Md.  Arinul Islam">
                            </div>
                            <div class="col-md-4 col-8">
                                 <a href="https://TutorPortalBD.com/tutor-details/TS-11017"><h5><strong>Md.  Arinul Islam</strong></h5></a>
@@ -59,7 +59,7 @@
                                          <div class="card p-2 my-3">
                        <div class="row">
                            <div class="col-md-3 col-4 pb-4">
-                               <img class="card-img" src="<?php echo url('/'); ?>/assets/images/storage/pic/pt3.jpg" alt="Hossain Kabir">
+                               <img class="card-img" src="<?php echo url('/'); ?>/public/assets/images/storage/pic/pt3.jpg" alt="Hossain Kabir">
                            </div>
                            <div class="col-md-4 col-8">
                                 <a href="https://TutorPortalBD.com/tutor-details/TS-11016"><h5><strong>Hossain Kabir</strong></h5></a>
@@ -84,7 +84,7 @@
                                          <div class="card p-2 my-3">
                        <div class="row">
                            <div class="col-md-3 col-4 pb-4">
-                               <img class="card-img" src="<?php echo url('/'); ?>/assets/images/storage/pic/pt4.jpg" alt="Nafis Khandaker">
+                               <img class="card-img" src="<?php echo url('/'); ?>/public/assets/images/storage/pic/pt4.jpg" alt="Nafis Khandaker">
                            </div>
                            <div class="col-md-4 col-8">
                                 <a href="https://TutorPortalBD.com/tutor-details/TS-11015"><h5><strong>Nafis Khandaker</strong></h5></a>
@@ -109,7 +109,7 @@
                                          <div class="card p-2 my-3">
                        <div class="row">
                            <div class="col-md-3 col-4 pb-4">
-                               <img class="card-img" src="<?php echo url('/'); ?>/assets/images/storage/pic/pt5.jpg" alt="Sayma sultana">
+                               <img class="card-img" src="<?php echo url('/'); ?>/public/assets/images/storage/pic/pt5.jpg" alt="Sayma sultana">
                            </div>
                            <div class="col-md-4 col-8">
                                 <a href="https://TutorPortalBD.com/tutor-details/TS-11014"><h5><strong>Sayma sultana</strong></h5></a>

@@ -15,19 +15,19 @@
                   </ol>
                   <div class="carousel-inner" role="listbox">
                         <div class="carousel-item active">
-                           <img class="d-block img-fluid" src="<?php echo url('/'); ?>/assets/images/storage/slider/slide1.jpg" alt="Slider Image One">
+                           <img class="d-block img-fluid" src="<?php echo url('/'); ?>/public/assets/images/storage/slider/slide1.jpg" alt="Slider Image One">
 
                         </div>
                         <div class="carousel-item ">
-                           <img class="d-block img-fluid" src="<?php echo url('/'); ?>/assets/images/storage/slider/slide2.jpg" alt="Slider Image Three">
+                           <img class="d-block img-fluid" src="<?php echo url('/'); ?>/public/assets/images/storage/slider/slide2.jpg" alt="Slider Image Three">
 
                         </div>
                         <div class="carousel-item ">
-                           <img class="d-block img-fluid" src="<?php echo url('/'); ?>/assets/images/storage/slider/slide3.jpg" alt="Slider Image Four">
+                           <img class="d-block img-fluid" src="<?php echo url('/'); ?>/public/assets/images/storage/slider/slide3.jpg" alt="Slider Image Four">
 
                        </div>
                         <div class="carousel-item ">
-                           <img class="d-block img-fluid" src="<?php echo url('/'); ?>/assets/images/storage/slider/slide4.jpg" alt="Slider Image Five">
+                           <img class="d-block img-fluid" src="<?php echo url('/'); ?>/public/assets/images/storage/slider/slide4.jpg" alt="Slider Image Five">
 
                        </div>
                     </div>
@@ -135,7 +135,7 @@
                     <a href="https://TutorPortalBD.com/tutor-details/TS-10840" class="card">
                         <div class="row">
                             <div class="col-4">
-                                <img class="card-img" src="<?php echo url('/'); ?>/assets/images/storage/pic/p1.jpg" alt="">
+                                <img class="card-img" src="<?php echo url('/'); ?>/public/assets/images/storage/pic/p1.jpg" alt="">
                                 <h6 class="text-info text-center">Dhaka</h6>
                             </div>
                             <div class="col-8">
@@ -149,7 +149,7 @@
                     <a href="https://TutorPortalBD.com/tutor-details/TS-10708" class="card">
                         <div class="row">
                             <div class="col-4">
-                                <img class="card-img" src="<?php echo url('/'); ?>/assets/images/storage/pic/p2.jpg" alt="">
+                                <img class="card-img" src="<?php echo url('/'); ?>/public/assets/images/storage/pic/p2.jpg" alt="">
                                 <h6 class="text-info text-center">Dhaka</h6>
                             </div>
                             <div class="col-8">
@@ -163,7 +163,7 @@
                     <a href="https://TutorPortalBD.com/tutor-details/TS-10573" class="card">
                         <div class="row">
                             <div class="col-4">
-                                <img class="card-img" src="<?php echo url('/'); ?>/assets/images/storage/pic/p3.jpg" alt="">
+                                <img class="card-img" src="<?php echo url('/'); ?>/public/assets/images/storage/pic/p3.jpg" alt="">
                                 <h6 class="text-info text-center">Dhaka</h6>
                             </div>
                             <div class="col-8">
@@ -177,7 +177,7 @@
                     <a href="https://TutorPortalBD.com/tutor-details/TS-4718" class="card">
                         <div class="row">
                             <div class="col-4">
-                                <img class="card-img" src="<?php echo url('/'); ?>/assets/images/storage/pic/p4.jpg" alt="">
+                                <img class="card-img" src="<?php echo url('/'); ?>/public/assets/images/storage/pic/p4.jpg" alt="">
                                 <h6 class="text-info text-center">Dhaka</h6>
                             </div>
                             <div class="col-8">
@@ -191,7 +191,7 @@
                     <a href="https://TutorPortalBD.com/tutor-details/TS-4599" class="card">
                         <div class="row">
                             <div class="col-4">
-                                <img class="card-img" src="<?php echo url('/'); ?>/assets/images/storage/pic/p5.jpg" alt="">
+                                <img class="card-img" src="<?php echo url('/'); ?>/public/assets/images/storage/pic/p5.jpg" alt="">
                                 <h6 class="text-info text-center">Dhaka</h6>
                             </div>
                             <div class="col-8">
@@ -205,7 +205,7 @@
                     <a href="https://TutorPortalBD.com/tutor-details/TS-4195" class="card">
                         <div class="row">
                             <div class="col-4">
-                                <img class="card-img" src="<?php echo url('/'); ?>/assets/images/storage/pic/p6.jpg" alt="">
+                                <img class="card-img" src="<?php echo url('/'); ?>/public/assets/images/storage/pic/p6.jpg" alt="">
                                 <h6 class="text-info text-center">Dhaka</h6>
                             </div>
                             <div class="col-8">
@@ -219,7 +219,7 @@
                     <a href="https://TutorPortalBD.com/tutor-details/TS-4131" class="card">
                         <div class="row">
                             <div class="col-4">
-                                <img class="card-img" src="<?php echo url('/'); ?>/assets/images/storage/pic/p7.jpg" alt="">
+                                <img class="card-img" src="<?php echo url('/'); ?>/public/assets/images/storage/pic/p7.jpg" alt="">
                                 <h6 class="text-info text-center">Dhaka</h6>
                             </div>
                             <div class="col-8">
@@ -233,7 +233,7 @@
                     <a href="https://TutorPortalBD.com/tutor-details/TS-3647" class="card">
                         <div class="row">
                             <div class="col-4">
-                                <img class="card-img" src="<?php echo url('/'); ?>/assets/images/storage/pic/p8.jpg" alt="">
+                                <img class="card-img" src="<?php echo url('/'); ?>/public/assets/images/storage/pic/p8.jpg" alt="">
                                 <h6 class="text-info text-center">Dhaka</h6>
                             </div>
                             <div class="col-8">
@@ -247,7 +247,7 @@
                     <a href="https://TutorPortalBD.com/tutor-details/TS-3330" class="card">
                         <div class="row">
                             <div class="col-4">
-                                <img class="card-img" src="<?php echo url('/'); ?>/assets/images/storage/pic/p9.jpg" alt="">
+                                <img class="card-img" src="<?php echo url('/'); ?>/public/assets/images/storage/pic/p9.jpg" alt="">
                                 <h6 class="text-info text-center">Dhaka</h6>
                             </div>
                             <div class="col-8">
@@ -261,7 +261,7 @@
                     <a href="https://TutorPortalBD.com/tutor-details/TS-1749" class="card">
                         <div class="row">
                             <div class="col-4">
-                                <img class="card-img" src="<?php echo url('/'); ?>/assets/images/storage/pic/p10.jpg" alt="">
+                                <img class="card-img" src="<?php echo url('/'); ?>/public/assets/images/storage/pic/p10.jpg" alt="">
                                 <h6 class="text-info text-center">Dhaka</h6>
                             </div>
                             <div class="col-8">
@@ -275,7 +275,7 @@
                     <a href="https://TutorPortalBD.com/tutor-details/TS-679" class="card">
                         <div class="row">
                             <div class="col-4">
-                                <img class="card-img" src="<?php echo url('/'); ?>/assets/images/storage/pic/p11.jpg" alt="">
+                                <img class="card-img" src="<?php echo url('/'); ?>/public/assets/images/storage/pic/p11.jpg" alt="">
                                 <h6 class="text-info text-center">Dhaka</h6>
                             </div>
                             <div class="col-8">
@@ -289,7 +289,7 @@
                     <a href="https://TutorPortalBD.com/tutor-details/TS-350" class="card">
                         <div class="row">
                             <div class="col-4">
-                                <img class="card-img" src="<?php echo url('/'); ?>/assets/images/storage/pic/p13.jpg" alt="">
+                                <img class="card-img" src="<?php echo url('/'); ?>/public/assets/images/storage/pic/p13.jpg" alt="">
                                 <h6 class="text-info text-center">Dhaka</h6>
                             </div>
                             <div class="col-8">
@@ -303,7 +303,7 @@
                     <a href="https://TutorPortalBD.com/tutor-details/TS-51" class="card">
                         <div class="row">
                             <div class="col-4">
-                                <img class="card-img" src="<?php echo url('/'); ?>/assets/images/storage/pic/p14.jpg" alt="">
+                                <img class="card-img" src="<?php echo url('/'); ?>/public/assets/images/storage/pic/p14.jpg" alt="">
                                 <h6 class="text-info text-center">Dhaka</h6>
                             </div>
                             <div class="col-8">
@@ -317,7 +317,7 @@
                     <a href="https://TutorPortalBD.com/tutor-details/TS-49" class="card">
                         <div class="row">
                             <div class="col-4">
-                                <img class="card-img" src="<?php echo url('/'); ?>/assets/images/storage/pic/p15.jpg" alt="">
+                                <img class="card-img" src="<?php echo url('/'); ?>/public/assets/images/storage/pic/p15.jpg" alt="">
                                 <h6 class="text-info text-center">Dhaka</h6>
                             </div>
                             <div class="col-8">
@@ -331,7 +331,7 @@
                     <a href="https://TutorPortalBD.com/tutor-details/TS-14" class="card">
                         <div class="row">
                             <div class="col-4">
-                                <img class="card-img" src="<?php echo url('/'); ?>/assets/images/storage/pic/p14.jpg" alt="">
+                                <img class="card-img" src="<?php echo url('/'); ?>/public/assets/images/storage/pic/p14.jpg" alt="">
                                 <h6 class="text-info text-center">Dhaka</h6>
                             </div>
                             <div class="col-8">

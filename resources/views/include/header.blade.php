@@ -8,10 +8,10 @@
     <meta name="keywords" content="Private Teacher,Tuition Media,Home tuition job,O/A Level Tutors,private tutor needed,tution teacher need,Private tutor near me,Tutor wanted,Home tutors in dhaka,The Way to A+,Home tutor solution,tutors forum,Tutoring jobs,tuition wanted,Tutor need,Part Time Home Tutor.Home tutor wanted In Bangladesh.">
 
     <title>TutorPortalBD.com | Best Tutor Searching platform in Bangladesh</title>
-    <link rel="stylesheet" href="<?php echo url('/'); ?>/assets/css/app.css">
-    <link rel="stylesheet" href="<?php echo url('/'); ?>/assets/css/style.css">
+    <link rel="stylesheet" href="<?php echo url('/'); ?>/public/assets/css/app.css">
+    <link rel="stylesheet" href="<?php echo url('/'); ?>/public/assets/css/style.css">
     <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" type="text/css" href="<?php echo url('/'); ?>/assets/css/custom.css">
+    <link rel="stylesheet" type="text/css" href="<?php echo url('/'); ?>/public/assets/css/custom.css">
 </head>
 <body>
 <div id="app">
@@ -59,7 +59,7 @@
     <nav class="navbar navbar-expand-lg">
         <div class="container">
             <a class="navbar-brand text-bold" href="<?php echo url('/'); ?>">
-                <img src="<?php echo url('/'); ?>/assets/images/logo.png" alt="TutorPortalBD.com">
+                <img src="<?php echo url('/'); ?>/public/assets/images/logo.png" alt="TutorPortalBD.com">
             </a>
             <button class="mobile-nav-toggle d-lg-none bg-transparent text-white collapsed" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
                 <!-- <span class="navbar-toggler-icon"> -->

@@ -8,7 +8,7 @@
                     <div class="footer-single-block">
                         <div class="footer-logo">
                             <a class="navbar-brand text-bold" href="index.html">
-                <img src="<?php echo url('/'); ?>/assets/images/logo.png" alt="TutorPortalBD.com">
+                <img src="<?php echo url('/'); ?>/public/assets/images/logo.png" alt="TutorPortalBD.com">
                             </a>
                         </div>
                         <p class="footer-dec">TutorPortalBD is the Most Popular online tutor matching platform in Bangladesh. TutorPortalBD helps students/parents connect with qualified tutors in-person and online tutors in over 15 different categories.</p>
@@ -67,7 +67,7 @@
 
 <!-- Load Facebook SDK for JavaScript -->
       <div id="fb-root"></div>
-      <script data-cfasync="false" src="<?php echo url('/'); ?>/assets/js/email-decode.min.js"></script><script>
+      <script data-cfasync="false" src="<?php echo url('/'); ?>/public/assets/js/email-decode.min.js"></script><script>
         window.fbAsyncInit = function() {
           FB.init({
             xfbml            : true,
@@ -79,7 +79,7 @@
         var js, fjs = d.getElementsByTagName(s)[0];
         if (d.getElementById(id)) return;
         js = d.createElement(s); js.id = id;
-        js.src = '<?php echo url('/'); ?>/assets/js/facebook.js';
+        js.src = '<?php echo url('/'); ?>/public/assets/js/facebook.js';
         fjs.parentNode.insertBefore(js, fjs);
       }(document, 'script', 'facebook-jssdk'));</script>
 
@@ -96,11 +96,11 @@
 
 </div>
 
-<script src="<?php echo url('/'); ?>/assets/js/app.js"></script>
-<script src="<?php echo url('/'); ?>/assets/js/custom.js"></script>
-<script src="<?php echo url('/'); ?>/assets/js/jquery.min.js"></script>
-<script src="<?php echo url('/'); ?>/assets/js/top.js"></script>
-<script src="<?php echo url('/'); ?>/assets/js/google.js"></script>
+<script src="<?php echo url('/'); ?>/public/assets/js/app.js"></script>
+<script src="<?php echo url('/'); ?>/public/assets/js/custom.js"></script>
+<script src="<?php echo url('/'); ?>/public/assets/js/jquery.min.js"></script>
+<script src="<?php echo url('/'); ?>/public/assets/js/top.js"></script>
+<script src="<?php echo url('/'); ?>/public/assets/js/google.js"></script>
 
 </body>
 </html>
